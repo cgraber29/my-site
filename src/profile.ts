@@ -30,7 +30,7 @@ export const profile = {
    */
   funFacts: [
     "My birthday is on a leap day, technically only 5 years old.",
-    "I love to travel and am going to Fiji and New Zealand in December.",
+    "I love to travel and am going to Fiji and New Zealand in December with my family.",
   ],
 
   /** One decision you're proud of, in a sentence. */
