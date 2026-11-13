@@ -29,7 +29,7 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "My birthday is on a leap day, technically only 5 years old.",
+    "My birthday is on a leap day, so I'm technically only 5 years old.",
     "I love to travel and am going to Fiji and New Zealand in December with my family.",
   ],
 
