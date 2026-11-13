@@ -35,7 +35,7 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I recently just accepted a job offer with CSC Global, in Digital Brand Services and it's my first full-time job after completing undergrad.",
+    "I recently just accepted a job offer with CSC Global, in Digital Brand Services and it's my first full-time job after completing undergraduate.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
